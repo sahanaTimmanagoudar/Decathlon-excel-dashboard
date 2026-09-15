@@ -1,6 +1,6 @@
 # Decathlon Sales & Customer Analysis Dashboard
 
-**An interactive Excel dashboard created to analyse sales performance and customer behaviour for Decathlon using synthetic transaction data.**
+**An interactive Excel dashboard created to analyse sales performance and customer behaviour for Decathlon.**
 
 ## Dashboard Preview
 
@@ -8,7 +8,11 @@
 
 ## Project Overview
 
-This project analyses 30,000 synthetic retail transactions to understand sales performance across sport categories, customer demographics, and time. It tracks how sales, orders, and customer retention shift by gender, year, and sport type, giving a full picture of business performance in a single interactive view.
+This project analyses retail transaction data to understand sales performance across sport categories, customer demographics, and time. It tracks how sales, orders, and customer retention shift by gender, year, and sport type, giving a full picture of business performance in a single interactive view.
+
+## Data Source
+
+The dataset used for this project is the [Decathlon Data](https://www.kaggle.com/datasets/anushka29/decathalon-data) dataset from Kaggle.
 
 ## From Data to Dashboard
 
@@ -43,7 +47,7 @@ Key measures — Total Sales, Total Orders, Total Customers, and Average Order V
 
 1. Download `decathlon-dashboard.xlsx`.
 2. Open it with Microsoft Excel.
-3. Go to the `DASH` worksheet.
+3. Go to the `DASHBOARD` worksheet.
 4. Use the Gender, Year, and Sport Type slicers to explore the results.
 
 [Download the Excel Dashboard](decathlon-dashboard.xlsx)
@@ -59,5 +63,5 @@ Key measures — Total Sales, Total Orders, Total Customers, and Average Order V
 
 ## Contributor
 
-**[Your Name]**
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+**Sahana Timmanagoudar**
+[GitHub](https://github.com/sahanaTimmanagoudar) • [LinkedIn](https://www.linkedin.com/in/tsahana)
